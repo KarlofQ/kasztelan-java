@@ -6,3 +6,5 @@ ale ich zapał szybko stygnie - jak ich nie przepuścisz, to nie zaczekają, tyl
 do swych zajęć.
 Problemem dodatkowym jest fakt, iż w wąskim stromym jarze, przez który biegnie droga za mostem, od czasu do czasu pojawia się (jeden) niedźwiedź lub (jeden) ryś. Ze swej pozycji przy moście widzisz drugi koniec jaru i wiesz doskonale, kiedy w nim pojawia się, a kiedy go opuszcza któreś z tych zwierząt. W jarze walka jest utrudniona więc łucznik poradzi sobie z każdym z osobna ale nie z oboma na raz, piechur tylko z rysiem, zaś jeździec ucieknie tylko niedźwiedziowi.
 Musisz sprawdzać, co dzieje się w jarze i zawracać lub przepuścić odpowiednią liczbę poszczególnych rodzajów żołnierzy.
+
+Kod został napisany dla 1 jeźdzca, 2 łuczników i 3 piechurów.
