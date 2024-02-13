@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ByCopilot {
+public class MyCodeReformattedByChatGPTToHaveLessLines {
     static Scanner scanner = new Scanner(System.in);
     static Map<String, Integer> warriors = new HashMap<>() {{
         put("horseman", 1);
